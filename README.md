@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [http://kriyanshishah.github.io/](http://kriyanshishah.github.io/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about: **HTML, CSS**
 
-- 📫 How to reach me **kriyanshishah06@gmail.com**
+- 📫 How to reach me: **kriyanshishah06@gmail.com**
 
-- ⚡ Fun fact **I think I will never be able to learn JavaScript completely**
+- ⚡ Fun fact: **I think I will never be able to learn JavaScript completely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
