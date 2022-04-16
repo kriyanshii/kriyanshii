@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://kriyanshishah.github.io/](http://kriyanshishah.github.io/)
 
-- 💬 Ask me about: **HTML, CSS**
+- 💬 Ask me about: **Frontend Development**
 
 - 📫 How to reach me: **kriyanshishah06@gmail.com**
 
