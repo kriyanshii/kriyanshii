@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahkriyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/shahkriyanshi?logo=twitter&style=for-the-badge" alt="shahkriyanshi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://kriyanshishah.github.io/](http://kriyanshishah.github.io/)
 
