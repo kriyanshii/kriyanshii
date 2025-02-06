@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kriyanshi Shah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriyanshishah&label=Profile%20views&color=0e75b6&style=flat" alt="kriyanshishah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shahkriyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/shahkriyanshi?logo=twitter&style=for-the-badge" alt="shahkriyanshi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working with **Go**
 
 - 👨‍💻 All of my projects are available at [http://kriyanshishah.github.io/](http://kriyanshishah.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@kriyanshishah06](https://medium.com/@kriyanshishah06)
+- 📝 I regularly write articles on [https://medium.com/@kriyanshii](https://medium.com/@kriyanshishah06)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **Javascript and Go**
 
 - 📫 How to reach me **kriyanshishah06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C7UtJlTR-j1gwr_hxagUh228i-1lar2S/view?usp=sharing](https://drive.google.com/file/d/1C7UtJlTR-j1gwr_hxagUh228i-1lar2S/view?usp=sharing)
+- 📄 Know about my experiences [link to my resume](https://drive.google.com/file/d/1CNv7PGiA6JhsWrPT49qSHwADB5NLaunM/view?usp=sharing)
 
-- ⚡ Fun fact **I think I will never be able to learn JavaScript completely**
+- ⚡ Fun fact **I like tinkering around distributed scalable systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahkriyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahkriyanshi" height="30" width="40" /></a>
+<a href="https://twitter.com/kriyanshiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahkriyanshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kriyanshi-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriyanshi-shah" height="30" width="40" /></a>
-<a href="https://medium.com/@kriyanshishah06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kriyanshishah06" height="30" width="40" /></a>
+<a href="https://medium.com/@kriyanshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kriyanshishah06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/girlwhocode06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="girlwhocode06" height="30" width="40" /></a>
 </p>
 
