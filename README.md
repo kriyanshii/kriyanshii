@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [distributed system course by mit](https://github.com/kriyanshii/mit-6.5840)
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning about **Distributed Systems and crafting interpreters**
 
 - 👯 I’m currently contributing to [dagu](https://github.com/dagu-org/dagu)
 
@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kriyanshii](https://medium.com/@kriyanshii)
 
-- 💬 Ask me about **Go, react and Javascript**
+- 💬 Ask me about **Go and Typescript**
 
 - 📫 How to reach me **kriyanshishah06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CNv7PGiA6JhsWrPT49qSHwADB5NLaunM/view?usp=sharing](https://drive.google.com/file/d/1CNv7PGiA6JhsWrPT49qSHwADB5NLaunM/view?usp=sharing)
+- 📄 Know about my experiences ([drive link](https://drive.google.com/file/d/1Ew4e1IqmkH91Gb-NgBv5Zao8wqQl4z0D/view?usp=sharing)) 
 
-- ⚡ Fun fact **I like tinkering around distributed scalable systems**
+- ⚡ Fun fact **I like setting up development setups on airgapped networks and write about it.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
