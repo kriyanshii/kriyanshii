@@ -20,8 +20,6 @@ Most days, I’m designing workflows, orchestrating compute, and shaping quiet i
 - I read—slowly, and often  
 
 ### Contact
-[Portfolio](https://kriyanshii.github.io/)  
-[Medium](https://medium.com/@kriyanshii)  
-[Email](mailto:kriyanshishah06@gmail.com)
+[Portfolio](https://kriyanshii.github.io/)  |  [Medium](https://medium.com/@kriyanshii)  |[Email](mailto:kriyanshishah06@gmail.com)
 
 
