@@ -17,9 +17,10 @@ Most days, I’m designing workflows, orchestrating compute, and shaping quiet i
 ### Outside the machine
 - I play the flute  
 - I learn the names of trees  
-- I read—slowly, and often  
+- I read—slowly, and often
 
-### Contact
-[Portfolio](https://kriyanshii.github.io/)  |  [Medium](https://medium.com/@kriyanshii)  |[Email](mailto:kriyanshishah06@gmail.com)
+### Elsewhere
+[Portfolio](https://kriyanshii.github.io/) · [Medium](https://medium.com/@kriyanshii) · [Email](mailto:kriyanshishah06@gmail.com)
 
+<sub>currently building quiet things — <a href="https://www.producthunt.com/products/visionboardit?utm_source=twitter&utm_medium=social">visionboardit</a></sub>
 
